@@ -1,3 +1,4 @@
 def foo():
-    return 2+4
+    x = 2 + 4
+    y = 4 - 2
 
